@@ -10,6 +10,9 @@ if((c1 in message) or (c2 in message) or (c3 in message ) or (c4 in message  )):
     print("spam comments")
 
 else:
-    print()
+    print(message)
+
+print("end of program")
     
+
 
